@@ -42,7 +42,7 @@ require (
 	github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2 // indirect
 	go.etcd.io/bbolt v1.3.3 // indirect
 	go.etcd.io/etcd v3.3.13+incompatible
-	go.uber.org/atomic v1.4.0
+	go.uber.org/atomic v1.7.0
 	go.uber.org/zap v1.10.0
 	google.golang.org/grpc v1.22.1
 	gopkg.in/yaml.v2 v2.2.2
